@@ -9,7 +9,7 @@
     "dev:debug": "nodemon --config nodemon.json --inspect-brk src/index.ts"
   },
   "devDependencies": {
-    "@types/node": "^20.11.16",
+    "@types/node": "^20.11.26",
     "nodemon": "^3.0.3",
     "ts-node": "^10.9.2",
     "typescript": "^5.3.3"
